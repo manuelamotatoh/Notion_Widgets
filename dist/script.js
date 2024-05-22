@@ -35,29 +35,91 @@ $(function () {
       "Yellow",
       "狂乱 Hey Kids!!",
       "KICKBACK",
-      "Bananafish"
+      "Bananafish",
+      "Flamingo",
+      "Harehareya",
+      "Heart Signal",
+      "Homura",
+      "Lemon",
+      "Only My Hero",
+      "Only My Love",
+      "Say It",
+      "Shiawase",
+      "Sparkle",
+      "True Love"
     ],
     trackNames = [
       "Ado - Usseewa",
       "MYTH & ROID - Voracity",
-      "神山 羊 - Yellow",
-      "The Oral Cigarettes - Hey Kids! ",
+      "Yoh Kamiyama - Yellow",
+      "The Oral Cigarettes - Hey Kids!",
       "Kenshi Yonezu - Kickback",
-      "Galileo Galilei - Bananafish"
+      "Galileo Galilei - Bananafish",
+      "Kenshi Yonezu - Flamingo",
+      "Sou - Harehareya",
+      "Wataru Hatano - Hart Signal",
+      "Lisa - Homura",
+      "Kenshi Yonezu - Lemon",
+      "Kosuke/Masahiro - Only My Hero",
+      "Kensuke/Hasakura - Only Love",
+      "Yorushika - SayIt",
+      "Back Number - Shiawase",
+      "RADWIMPS - Sparkle",
+      "Hitorijime My Hero - TRUE LOVE"
     ],
-    albumArtworks = ["_1", "_2", "_3", "_4", "_5", "_6"],
+    albumArtworks = [
+      "_1",
+      "_2",
+      "_3",
+      "_4",
+      "_5",
+      "_6",
+      "_7",
+      "_8",
+      "_9",
+      "_10",
+      "_11",
+      "_12",
+      "_13",
+      "_14",
+      "_15",
+      "_16",
+      "_17"
+    ],
     trackUrl = [
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/Ado-Usseewa.mp3",
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Ado-Usseewa.mp3",
 
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/MYTH%20&%20ROID-VORACITY.mp3",
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/MYTH&ROID-VORACITY.mp3",
 
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/%E7%A5%9E%E5%B1%B1%20%E7%BE%8A-YELLOW.mp3",
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/YohKamiyama-YELLOW.mp3",
 
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/TheOralCigarettes-%E7%8B%82%E4%B9%B1HeyKids!!.mp3",
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/TheOralCigarettes-HeyKids!!.mp3",
 
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/KenshiYonezu-KICKBACK.mp3",
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/KenshiYonezu-KICKBACK.mp3",
 
-      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/GalileoGalilei-BananafishnoHamabetoKuiniji.mp3"
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/GalileoGalilei-BananafishnoHamabetoKuiniji.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/KenshiYonezu-Flamingo.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Sou-Harehareya.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/WataruHatano-HartSignal.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Lisa-Homura.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/KenshiYonezu-Lemon.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Kosuke&Masahiro-OnlyMyHeroOnlyYourPlace.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Kensuke&Hasakura-NotOnlyFfriendButOnlyLove.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/Yorushika-SayIt.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/BackNumber-Shiawase.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/RADWIMPS-Sparkle.mp3",
+
+      "https://manuelamotatoh.github.io/Vinyl-Widget-Notion/music/K&M&H&K-TRUELOVE.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
