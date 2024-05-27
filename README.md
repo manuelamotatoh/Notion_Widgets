@@ -11,7 +11,7 @@ Este repositorio contiene una colección de widgets diseñados para ser utilizad
 
 Para instalar cualquier widget de esta colección, sigue estos pasos generales:
 
-1. Clona el repositorio.
+1. Clona el repositorio (opcional).
 2. Navega al directorio del widget que deseas utilizar.
 3. Sigue las instrucciones específicas en el archivo README de cada widget.
 
