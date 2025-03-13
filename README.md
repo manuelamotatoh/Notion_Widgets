@@ -23,6 +23,7 @@ Este proyecto está bajo la licencia Creative Commons Attribution-NonCommercial-
 
 ## Créditos
 **Código**: Los códigos de los widgets se han obtenido de varias fuentes, incluyendo [Codepen](https://codepen.io/) y contribuciones de la comunidad.
+
 **Recursos de Terceros**: Todas las imágenes, canciones y otros recursos utilizados en los widgets son propiedad de sus respectivos autores y no están destinados a distribución comercial.
 
 Espero que esta colección de widgets te sea de utilidad y mejore tu experiencia en Notion. Si tienes alguna sugerencia o encuentras algún problema, no dudes en escribirme o contribuir al proyecto.
